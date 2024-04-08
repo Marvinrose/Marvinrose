@@ -16,6 +16,8 @@ I'm Marvinrose, A passionate software developer who loves to build things and so
    <a href="mailto:rozzeymarvin32@gmail.com" target="blank"><img align="center" src="https://github.com/Marvinrose/Marvinrose/assets/105444033/f310c671-6aa7-44a0-b52b-cf54c51e84bb" height="50" /></a>   
 
 ### My GitHub Stats:
+![Marvinrose's Stats](https://github-readme-stats.vercel.app/api?username=Marvinrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Marvinrose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marvinrose&theme=radical&hide_border=true)
+![Marvinrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvinrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
