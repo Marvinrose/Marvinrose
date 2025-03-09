@@ -2,10 +2,10 @@
 
 I'm Marvinrose, A passionate software developer who loves to build things and solve problems.
 
-- 🔭 I’m currently working on building C# projects
-- 🌱 I’m currently learning C#..
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything related to MERN stack web development.. 
+- 🔭 I’m currently working on building Python projects
+- 🌱 I’m currently learning Python..
+- 👯 I just started contributing to open source 🤭
+- 💬 Ask me about anything related to web development.. 
 - ⚡ Fun fact: I debug in my dreams and I believe in continous learning 🤭
 
 ### Languages and Tools:
